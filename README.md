@@ -1,4 +1,4 @@
-# Chess
+# Chess in C#
 
 My first C# project, written on my phone using an android IDE app, then uoloaded to github.
 
